@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+E-commerce UI using tailwind CSS featuring a slider, category display, product listings, and a cart section. The project includes basic routing functionality and uses static data to simulate an online shopping experience.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
