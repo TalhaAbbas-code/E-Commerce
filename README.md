@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 E-commerce UI using tailwind CSS featuring a slider, category display, product listings, and a cart section. The project includes basic routing functionality and uses static data to simulate an online shopping experience.
-https://github.com/TalhaAbbas-code/E-Commerce/blob/4a397e2940fce6f549120cb3c4bd18df6c2bf59d/Screenshot%20(47).png
+
 <img src="https://github.com/TalhaAbbas-code/E-Commerce/blob/4a397e2940fce6f549120cb3c4bd18df6c2bf59d/Screenshot%20(47).png" alt="Project Screenshot" >
 <img src="https://github.com/TalhaAbbas-code/E-Commerce/blob/4a397e2940fce6f549120cb3c4bd18df6c2bf59d/Screenshot%20(48).png" alt="Project Screenshot" >
 <img src="https://github.com/TalhaAbbas-code/E-Commerce/blob/4a397e2940fce6f549120cb3c4bd18df6c2bf59d/Screenshot%20(49).png" alt="Project Screenshot" >
